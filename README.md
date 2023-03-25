@@ -1,17 +1,17 @@
+<img align="left" width="150" height="150" style="border-radius: 50%; filter: grayscale(1);" alt="me" src="https://media.licdn.com/dms/image/C5603AQFFcXU2VK1dqg/profile-displayphoto-shrink_800_800/0/1639576573706?e=1684972800&v=beta&t=qaVbBNzXxfTaTkkl26osoTo-VUWJneIlr8IM89pA_D8"/>
 
-![image description](https://cdn.vox-cdn.com/thumbor/EaUuzIdnUGXAs_LokdLgtdrJZCY=/0x0:420x314/1400x1050/filters:focal(136x115:202x181):format(gif)/cdn.vox-cdn.com/uploads/chorus_image/image/55279403/tenor.0.gif)
 
-<!--
-**linktoahmad/linktoahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm [Ahmed Khalil][homepage] 👋 
 
-Here are some ideas to get you started:
+A JavaScript developer from [Islamabad][about-Islamabad]. I currently working as Full-Stack Dev at [Numu][numu]. I love building applications & discussing new product ideas. Reach out to me 
+🌐[here][web] if you'd like to talk, and know more about me ✌️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+[homepage]: https://github.com/linktoahmad
+[linkedin]: https://www.linkedin.com/in/ahmed-khalil-3133a9196/
+[web]: https://linktoahmad.github.io/
+[github]: https://github.com/linktoahmad
+[about-Islamabad]: https://www.google.com/search?q=islamabad
+[numu]: https://numuworld.com/
