@@ -3,7 +3,7 @@
 
 ## I'm [Ahmed Khalil][homepage] 👋 
 
-A JavaScript developer from [Islamabad][about-Islamabad]. I currently working as Full-Stack Dev at [Numu][numu]. I love building applications & discussing new product ideas. Reach out to me 
+A JavaScript developer from [Islamabad][about-Islamabad]. I'm currently working as Full-Stack Dev at [Numu][numu]. I love building applications & discussing new product ideas. Reach out to me 
 🌐[here][web] if you'd like to talk, and know more about me ✌️
 
 
