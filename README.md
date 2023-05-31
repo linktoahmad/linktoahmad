@@ -1,4 +1,4 @@
-<img align="left" width="150" height="150" style="border-radius: 50%; filter: grayscale(1);" alt="me" src="https://media.licdn.com/dms/image/C5603AQFFcXU2VK1dqg/profile-displayphoto-shrink_800_800/0/1639576573706?e=1684972800&v=beta&t=qaVbBNzXxfTaTkkl26osoTo-VUWJneIlr8IM89pA_D8"/>
+<img align="left" width="150" height="150" style="border-radius: 50%; filter: grayscale(1);" alt="me" src="https://media.licdn.com/dms/image/C5603AQFFcXU2VK1dqg/profile-displayphoto-shrink_200_200/0/1639576573706?e=1691020800&v=beta&t=YCtW_FfhkmTBpEklqI5MEsOat9tJU7qBMONamJOaS3M"/>
 
 
 ## I'm [Ahmed Khalil][homepage] 👋 
