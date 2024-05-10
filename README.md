@@ -3,7 +3,8 @@
 
 ## I'm [Ahmed Khalil][homepage] 👋 
 
-A JavaScript developer from [Islamabad][about-Islamabad]. I'm currently working as Full-Stack Dev at [Numu][numu]. I love building applications & discussing new product ideas. Reach out to me 
+With over 2 years of experience working with React, Node.js, SQL, PostgreSQL, and javascript Frameworks building full-stack web apps. on the lookout for a new full-stack role where I can bring my skills to the table and be part of something awesome.. 
+Reach out to me 
 🌐[here][web] if you'd like to talk, and know more about me ✌️
 
 
