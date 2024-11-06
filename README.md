@@ -3,7 +3,9 @@
 
 ## I'm [Ahmed Khalil][homepage] 👋 
 
-With over 2 years of experience working with React, Node.js, SQL, PostgreSQL, and javascript Frameworks building full-stack web apps. on the lookout for a new full-stack role where I can bring my skills to the table and be part of something awesome.. 
+A Full Stack Software Engineering graduate, experienced using React, Next, and TypeScript Solid knowledge of
+databases and backend systems like Node.js, Express.js Sql, and PgSql, great team player and experienced
+in working with people all around the globe.
 Reach out to me 
 🌐[here][web] if you'd like to talk, and know more about me ✌️
 
