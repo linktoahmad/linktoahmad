@@ -1,4 +1,4 @@
-<img align="left" height="150" style="border-radius: 50%; filter: grayscale(1);" alt="me" src="https://img-9gag-fun.9cache.com/photo/ap93yAE_460s.jpg"/>
+<img align="left" height="150" style="border-radius: 50%; filter: grayscale(1);" alt="me" src="[https://img-9gag-fun.9cache.com/photo/ap93yAE_460s.jpg](https://www.cuteness.com/cuteness/15-cats-interrupting-their-humans-productivity-with-impunity/9b202bb0bb234e33a0b65f32d93fd8cd.png)"/>
 
 ### Hi there, I'm [Ahmed Khalil](https://github.com/linktoahmad) 👋
 
@@ -25,5 +25,5 @@ I have hands-on experience with databases (SQL & PostgreSQL), and I thrive in co
 ---
 
 ### 🚀 Side Projects:
-- **[Electricity Monitoring Startup](http://semspk.github.io/):**  
+- **[My Startup SEMS](http://semspk.github.io/):**  
    Real-time monitoring of electricity consumption via a React Native app. The project helps users track energy usage and reduce wastage.
