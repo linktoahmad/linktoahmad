@@ -18,7 +18,7 @@ I have hands-on experience with databases (SQL & PostgreSQL), and I thrive in co
 ---
 
 ### 🌍 Currently:
-- **Full Stack Software Engineer at Porto**
+- **Full Stack Software Engineer Learning AI & Devops!**
 - Working on web and mobile applications, enhancing user experiences, and optimizing backend architectures. 
 - Focusing on leveraging modern technologies to solve complex challenges in scalable systems.
 
